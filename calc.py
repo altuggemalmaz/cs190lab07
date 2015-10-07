@@ -74,7 +74,7 @@ while (True):
             print "Quotient: ", div(a, b)
 
         elif(op=="%"):
-            print "Remainder" mod(a,b)
+            print "Remainder", mod(a,b)
 
         elif (op == "**"):
             print "Exponent: ", exp(a, b)
